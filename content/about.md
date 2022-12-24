@@ -5,9 +5,8 @@ draft: false
 ---
 
 This is the about page!
-
 This website is used for testing purposes.
 
 Thank you for visiting!
 
-[Blog](/posts)
+[Contact me](/contact)
