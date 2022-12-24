@@ -16,7 +16,7 @@ author = "Tanishk Thoria"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Tanishk Thoria's personal website"
 keywords = "blog,developer,personal"
-info = ["Fedora Linux User", "Open-Source Advocate"]
+info = ["Fedora Linux User"]
 #avatarURL = "images/logo.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
