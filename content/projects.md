@@ -8,5 +8,5 @@ The only project that I am currently working on is this website.
 
 It takes a lot more work than you may think.
 
-*Though that could just be because I am slightly incompetent*
+*Though that could just be because I am slightly incompetent.*
 
