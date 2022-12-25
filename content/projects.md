@@ -5,13 +5,7 @@ draft: false
 ---
 
 The only project that I am currently working on is this website.
-
-It takes a lot more work than you may think.
-
-*Though that could just be because I am slightly incompetent.*
-
-
-# Previous Works:
+My previous projects can be accessed through replit. 
 
 [![Replit Link](https://jocular-marzipan-1cbc43.netlify.app/images/replitLogoV4.png)](https://replit.com/@tanishkthoria)
 
