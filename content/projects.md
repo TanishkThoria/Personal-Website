@@ -12,5 +12,5 @@ It takes a lot more work than you may think.
 
 *Though that could just be because I am slightly incompetent.*
 
-[![Replit Link](https://jocular-marzipan-1cbc43.netlify.app/images/replitLogo.png)](https://replit.com/@tanishkthoria)
+[![Replit Link](https://jocular-marzipan-1cbc43.netlify.app/images/replitLogoV2.png)](https://replit.com/@tanishkthoria)
 
