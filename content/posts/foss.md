@@ -41,4 +41,3 @@ the satisfaction of providing FOSS to other people.
 
    Let us take Firefox as an example. Firefox is an open-source browser that 
 takes many privacy and security precautions 
-
