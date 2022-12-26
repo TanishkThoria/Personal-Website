@@ -108,12 +108,13 @@ name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/tanishkthoria"
+replit = "true"
 
-#[[params.social]]
-#name = "Replit"
-#icon = "/images/replitLogo.png" 
-#weight = 2
-#url = "https://replit.com/@tanishkthoria"
+[[params.social]]
+name = "Replit"
+icon = "fa fa-2x fa-code" 
+weight = 3
+url = "https://replit.com/@tanishkthoria"
 
 #[[params.social]]
 #name = "Gitlab"
