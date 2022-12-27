@@ -1,4 +1,4 @@
-#baseURL = "http://www.example.com"
+baseURL = "https://tanishkthoria.netlify.app"
 title = "Tanishk Thoria"
 theme = "customized-coder"
 languageCode = "en"
