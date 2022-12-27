@@ -108,13 +108,18 @@ name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/tanishkthoria"
-replit = "true"
 
-[[params.social]]
-name = "Replit"
-icon = "fa fa-2x fa-code" 
-weight = 3
-url = "https://replit.com/@tanishkthoria"
+# "replit" parameter:
+# if true, the hard-coded replit link + icon will be shown after this
+# regardless of the weight could be changed to any icon + link
+# gives flexability to choose images that are not in the fa library
+replit = "true" 
+
+#[[params.social]]
+#name = "Replit"
+#icon = "fa fa-2x fa-code" 
+#weight = 3
+#url = "https://replit.com/@tanishkthoria"
 
 #[[params.social]]
 #name = "Gitlab"
