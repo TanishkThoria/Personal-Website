@@ -1,5 +1,5 @@
 # Website
-This repo contains the source code for https://jocular-marzipan-1cbc43.netlify.app/ 
+This repo contains the source code for https://tanishkthoria.netlify.app/ 
 
 It is hosted through netlify.
 
