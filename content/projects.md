@@ -7,5 +7,5 @@ draft: false
 The only project that I am currently working on is this website.
 My previous projects can be accessed through replit. 
 
-[![Replit Link](https://jocular-marzipan-1cbc43.netlify.app/images/replitLogoV7.png)](https://replit.com/@tanishkthoria)
+[![Replit Link](https://tanishkthoria.netlify.app/images/replitLogoV7.png)](https://replit.com/@tanishkthoria)
 
