@@ -1,0 +1,27 @@
+{{ with .Site.Params.social }}
+<ul>
+  {{ range sort . "weight" }}
+    {{ if .icon }}
+      <li>
+        <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
+          <i class="{{ .icon }}" aria-hidden="true"></i>
+        </a>
+      </li>
+    {{ else }}
+      <li>
+        <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+      </li>
+    {{ end }}
+
+    {{ if .replit }} 
+      <li>
+        <a href="https://replit.com/@tanishkthoria">
+          <img src="https://jocular-marzipan-1cbc43.netlify.app/images/replitLogoMinimal.png" alt="Replit logo" style="width:27.4333px;height:32px">
+        </a>
+      </li>
+     {{ end }}
+
+  {{ end }}
+
+</ul>
+{{ end }}
