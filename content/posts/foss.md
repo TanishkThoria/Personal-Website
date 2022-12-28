@@ -30,14 +30,14 @@ yet the end product is something that rivals with, or even beats, closed-source
 and proprietary software. 
 
    People may doubt the true quality of these softwares, as how good could 
-something that is absolutely free really be? How could individuals compete
-with companies? How is this financially viable? Well, in many cases, there
-tend to be companies that fund and contribute to these projects. However,
-there is still a entire community of people who are not part of these companies 
-but still choose to contribute. And in that case, the contributor gets nothing but 
-the satisfaction of providing FOSS to other people. 
+something that is absolutely free really be? How is this financially viable? 
+Well, in many cases, there tend to be companies that fund and contribute to these 
+projects. However, there is still a entire community of people who are not part of 
+these companies but still choose to contribute. And in that case, the contributor 
+gets nothing but the satisfaction of providing FOSS to other people. 
 
 # Is it Actually Good?
 
    Let us take Firefox as an example. Firefox is an open-source browser that 
-takes many privacy and security precautions 
+takes many privacy and security precautions. It is backed by Mozilla, which 
+earns its revenue through various sources, such as  
