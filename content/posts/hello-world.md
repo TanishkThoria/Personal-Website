@@ -2,7 +2,7 @@
 draft = false
 date = 2022-12-24T12:48:10-08:00
 title = "Hello World!"
-description = "Introducing my new website!"
+description = "Introducing my new website! This website is entirely open-source and can be found on my Github."
 slug = ""
 authors = ["Tanishk Thoria"]
 tags = []
