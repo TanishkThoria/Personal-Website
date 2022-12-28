@@ -1,11 +1,37 @@
 <footer class="footer">
   <section class="container">
+   
+    {{ with .Site.Params.social }}
+        {{ range sort . "weight" }}
+          {{ if .icon }}
+              <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }}>
+                <i class="fa fa-lg fa-{{ .name | lower }}" aria-hidden="true"></i>
+              </a>
+	  {{ else }}
+	      <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+	  {{ end }}
+
+	  {{ if .replit }}
+
+            <a> &#8239;</a> 
+	    <a href="https://replit.com/@tanishkthoria"> 
+	      <img src="https://tanishkthoria.netlify.app/images/replitLogoMinimalBlue.png" alt="Replit logo" style="width:12.04px;height:14px"> 
+	    </a>  
+	  {{ end }}
+
+	{{ end }}
+
+    {{ end }}  
+  
+    <a> &#8239;</a> 
+    
     ©
     {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}
       {{ .Site.Params.since }} -
     {{ end }}
     {{ now.Year }}
     {{ with .Site.Params.author }} {{ . }} {{ end }}
+    
     ·
     {{ if (and .Site.Params.license) }}
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
