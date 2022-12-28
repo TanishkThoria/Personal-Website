@@ -9,4 +9,8 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+imageSrc = ""
+image = false
+imageWidth = ""
+imageHeight = ""
 +++

@@ -9,6 +9,10 @@ tags = []
 categories = ["FOSS"] 
 externalLink = "" 
 series = [] 
+imageSrc = "https://static-cse.canva.com/blob/951430/1600w-wK95f3XNRaM.jpg"
+image = true
+imageWidth = "240"
+imageHeight = "134.73"
 +++
 
 # What is FOSS?

@@ -9,6 +9,10 @@ tags = []
 categories = []
 externalLink = ""
 series = []
+imageSrc = ""
+image = false
+imageWidth = ""
+imageHeight = ""
 +++
 
 Welcome to my new [website](https://github.com/TanishkThoria/website)!
