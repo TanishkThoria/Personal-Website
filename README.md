@@ -11,7 +11,7 @@ It is hosted through netlify.
 # Fixed:
 - [✓] Adding replit to socials 
       
-      -> [🏗️] Does not play nice with changing to light mode
+     --- [🏗️] Does not play nice with changing to light mode
 
 - [✓] Add a favicon
 - [✓] Somewhat improved blog page
