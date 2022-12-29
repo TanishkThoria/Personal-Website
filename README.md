@@ -1,7 +1,7 @@
 # Website
 This repo contains the source code for https://tanishkthoria.netlify.app/ 
 
-# Currently Working on.
+# Currently Working on...
 - [] Nicer blog page 
 
 # Fixed:
