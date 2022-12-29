@@ -16,6 +16,7 @@ if (darkModeToggle) {
         let theme = body.classList.contains("colorscheme-dark") ? "light" : "dark";
         setTheme(theme);
         rememberTheme(theme);
+	window.location.reload();
     });
 }
 
