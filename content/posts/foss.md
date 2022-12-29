@@ -10,7 +10,7 @@ categories = ["FOSS"]
 externalLink = "" 
 series = [] 
 imageSrc = "https://static-cse.canva.com/blob/951430/1600w-wK95f3XNRaM.jpg"
-image = true
+image = false
 imageWidth = "240"
 imageHeight = "134.73"
 +++
@@ -44,4 +44,5 @@ gets nothing but the satisfaction of providing FOSS to other people.
 
    Let us take Firefox as an example. Firefox is an open-source browser that 
 takes many privacy and security precautions. It is backed by Mozilla, which 
-earns its revenue through various sources, such as  
+earns its revenue through various sources, such as through search partners.
+

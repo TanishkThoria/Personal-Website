@@ -1,31 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Website for Hugo/Netlify</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Test Website for Hugo/Netlify</description>
+    <title>Tanishk Thoria</title>
+    <link>https://tanishkthoria.netlify.app/</link>
+    <description>Recent content on Tanishk Thoria</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 19 Dec 2022 17:53:23 -0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 12:48:10 -0800</lastBuildDate><atom:link href="https://tanishkthoria.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Post</title>
-      <link>https://example.com/posts/second-post/</link>
-      <pubDate>Mon, 19 Dec 2022 17:53:23 -0800</pubDate>
+      <title>Project Status</title>
+      <link>https://tanishkthoria.netlify.app/projects/</link>
+      <pubDate>Sat, 24 Dec 2022 13:03:07 -0800</pubDate>
       
-      <guid>https://example.com/posts/second-post/</guid>
-      <description>Test Post This is a test.
-Is it working?
+      <guid>https://tanishkthoria.netlify.app/projects/</guid>
+      <description>The only project that I am currently working on is this website. My previous projects can be accessed through replit.</description>
+    </item>
+    
+    <item>
+      <title>Contact me</title>
+      <link>https://tanishkthoria.netlify.app/contact/</link>
+      <pubDate>Sat, 24 Dec 2022 12:59:00 -0800</pubDate>
+      
+      <guid>https://tanishkthoria.netlify.app/contact/</guid>
+      <description>You can reach me at: tanishkthoria@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://tanishkthoria.netlify.app/posts/hello-world/</link>
+      <pubDate>Sat, 24 Dec 2022 12:48:10 -0800</pubDate>
+      
+      <guid>https://tanishkthoria.netlify.app/posts/hello-world/</guid>
+      <description>Welcome to my new website!
 Hello World!</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
-      <pubDate>Mon, 19 Dec 2022 17:47:41 -0800</pubDate>
+      <title>About</title>
+      <link>https://tanishkthoria.netlify.app/about/</link>
+      <pubDate>Sat, 24 Dec 2022 12:15:17 -0800</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <guid>https://tanishkthoria.netlify.app/about/</guid>
+      <description>This is the about page! This website is used for testing purposes.
+Thank you for visiting!
+Contact me</description>
     </item>
     
   </channel>
