@@ -5,6 +5,7 @@ This repo contains the source code for https://tanishkthoria.netlify.app/
 - [] Nicer blog page 
 
 # Fixed:
+- [✓] Auto-refresh page after color-scheme toggle
 - [✓] Replit icon compatibility with light mode (in footer and homepage)
 - [✓] Adding socials to footer
 - [✓] Adding replit to socials
