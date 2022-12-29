@@ -13,30 +13,21 @@
       </li>
     {{ end }}
 
-    {{ if .replit }} 
-      <h1>INSIDE REPLIT</h1>
-    
+    {{ if .replit }}     
       <li>
         <a id="replit" href="https://replit.com/@tanishkthoria"> </a>
       </li> 
-      
-      <p id="test123"> </p>
-      <p id="test"> </p>
-    
+          
       <script>
 
-	//document.write("here")
         getTheme = window.localStorage && window.localStorage.getItem("colorscheme");
         getTheme = getTheme == null ? '{{$.Site.Params.utterances.theme}}' : getTheme;
-      
-        //document.getElementById("test123").innerHTML = "here!";
-        
+              
         if (getTheme === "dark") {
           document.getElementById("replit").innerHTML = '<img src="https://tanishkthoria.netlify.app/images/replitLogoMinimalV2.png" alt="Replit logo" style="width:20.64px;height:24px">' ;
-          document.getElementById("test").innerHTML = "inside if statement!";
+
         } else {
-          document.getElementById("test").innerHTML = "inside else statement!";
-          //document.getElementById("replit").innerHTML = <img src="https://tanishkthoria.netlify.app/images/replitLogoMinimalV2.png" alt="Replit logo" style="width:20.64px;height:24px">;
+          document.getElementById("replit").innerHTML = '<img src="https://tanishkthoria.netlify.app/images/replitLogoMinimalLightMode.png" alt="Replit logo" style="width:20.64px;height:24px">' ;
         }
                 
       </script>
