@@ -1,6 +1,6 @@
 baseURL = "https://tanishkthoria.netlify.app"
 title = "Tanishk Thoria"
-theme = "customized-coder"
+theme = "Hugo-Programmer"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
@@ -113,11 +113,21 @@ icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/tanishkthoria"
 
-# "replit" parameter:
-# if true, the hard-coded replit link + icon will be shown after this
-# regardless of the weight could be changed to any icon + link
-# gives flexability to choose images that are not in the fa library
-replit = "true" 
+[[params.soical]]
+name = "Replit"
+weight = 2
+url = "https://replit.com/@tanishkthoria"
+
+customImg = true
+imgSrc-darkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalV2.png"
+imgSrc-lightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalLightMode.png"
+imgWidth = "20.64"
+imgHeight = "24"
+
+footer-imgSrc-darkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlue.png"
+footer-imgSrc-lightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueLightMode.png"
+footer-imgWidth = "12.04"
+footer-imgHeight = "14"
 
 #[[params.social]]
 #name = "Replit"

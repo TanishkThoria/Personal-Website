@@ -1,0 +1,28 @@
+name = "Programmer"
+license = "MIT"
+licenselink = "https://github.com/TanishkThoria/Hugo-Programmer/blob/main/LICENSE"
+description = "A modified version of the minimal and sleek 'Hugo-Coder' theme."
+homepage = "https://github.com/luizdepra/hugo-coder/"
+tags = [
+  "blog",
+  "minimal",
+  "minimalist",
+  "responsive",
+  "simple",
+  "clean",
+  "personal",
+  "modified"
+]
+features = [
+  "analytics",
+  "favicon",
+  "multilingual",
+  "pagination",
+  "single-column",
+  "syntax-highlighting"
+]
+min_version = "0.79.0"
+
+[author]
+name = "Tanishk Thoria"
+homepage = "https://tanishkthoria.netlify.app"
