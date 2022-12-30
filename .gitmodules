@@ -1,3 +1,3 @@
 [submodule "themes/Hugo-Programmer"]
 	path = themes/Hugo-Programmer
-	url = https://github.com/TanishkThoria/Hugo-Programmer.git
+	url = "https://github.com/TanishkThoria/Hugo-Programmer.git"
