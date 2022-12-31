@@ -121,8 +121,8 @@ url = "https://replit.com/@tanishkthoria"
 customImg = true
 imgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalV2.png"
 imgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalLightMode.png"
-imgWidth = 20.64
-imgHeight = 24
+imgWidth = 21.5
+imgHeight = 25
 
 footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueV2.png"
 footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueLightMode.png"
@@ -137,8 +137,8 @@ url = "https://www.hackerrank.com/tanishkthoria"
 customImg = true
 imgSrcDarkMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoV3.png"
 imgSrcLightMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoLightModeV3.png"
-imgWidth = 65
-imgHeight = 65
+imgWidth = 75
+imgHeight = 75
 
 footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlueV3.png"
 footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlueLightModeV3.png"
