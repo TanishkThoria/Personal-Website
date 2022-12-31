@@ -124,7 +124,7 @@ imgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalLig
 imgWidth = 20.64
 imgHeight = 24
 
-footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueV2.png"
+footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlue.png"
 footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueLightMode.png"
 footerImgWidth = 12.04
 footerImgHeight = 14
