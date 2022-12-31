@@ -126,8 +126,8 @@ imgHeight = 24
 
 footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueV2.png"
 footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueLightMode.png"
-footerImgWidth = 12.04
-footerImgHeight = 14
+footerImgWidth = 9.46
+footerImgHeight = 11
 
 [[params.social]]
 name = "Hacker Rank"
