@@ -129,6 +129,23 @@ footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMini
 footerImgWidth = 12.04
 footerImgHeight = 14
 
+[[params.social]]
+name = "Hacker Rank"
+weight = 3
+url = "https://www.hackerrank.com/tanishkthoria"
+
+customImg = true
+imgSrcDarkMode = "https://tanishkthoria.netlify.app/images/hackerrankLogo.png"
+imgSrcLightMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoLightMode.png"
+imgWidth = 20.64
+imgHeight = 24
+
+footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlue.png"
+footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlueLightMode.png"
+footerImgWidth = 12.04
+footerImgHeight = 14
+
+
 #[[params.social]]
 #name = "Replit"
 #icon = "fa fa-2x fa-code" 
