@@ -140,10 +140,10 @@ imgSrcLightMode = "images/hackerrankLogoLightModeV4.png"
 imgWidth = 41.55
 imgHeight = 25.8
 
-footerImgSrcDarkMode = "images/hackerrankLogoBlueV3.png"
-footerImgSrcLightMode = "images/hackerrankLogoBlueLightModeV3.png"
-footerImgWidth = 36
-footerImgHeight = 36
+footerImgSrcDarkMode = "images/hackerrankLogoBlueV4.png"
+footerImgSrcLightMode = "images/hackerrankLogoBlueLightModeV4.png"
+footerImgWidth = 20.124
+footerImgHeight = 12.492
 
 [[params.social]]
 name = "LeetCode"
