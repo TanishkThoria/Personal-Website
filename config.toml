@@ -124,8 +124,8 @@ imgSrcLightMode = "images/replitLogoMinimalLightMode.png"
 imgWidth = 21.5
 imgHeight = 25
 
-footerImgSrcDarkMode = "images/replitLogoMinimalBlueV2.png"
-footerImgSrcLightMode = "images/replitLogoMinimalBlueLightMode.png"
+footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueV2.png"
+footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueLightMode.png"
 footerImgWidth = 10.32
 footerImgHeight = 12
 
@@ -140,8 +140,8 @@ imgSrcLightMode = "images/hackerrankLogoLightModeV4.png"
 imgWidth = 41.55
 imgHeight = 25.8
 
-footerImgSrcDarkMode = "images/hackerrankLogoBlueV4.png"
-footerImgSrcLightMode = "images/hackerrankLogoBlueLightModeV4.png"
+footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlueV4.png"
+footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlueLightModeV4.png"
 footerImgWidth = 20.124
 footerImgHeight = 12.492
 
