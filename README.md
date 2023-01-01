@@ -3,7 +3,7 @@ This repo contains the source code for https://tanishkthoria.netlify.app/
 
 # Currently Working on...
 - [📈] Grinding Hackerrank/Leetcode
-- [🏗️ ] Making the [Hugo-Programmer](https://github.com/TanishkThoria/Hugo-Programmer) theme <br/> <pre>   </pre>Should be up on the hugo website soon :)
+- [🏗️ ] Making the [Hugo-Programmer](https://github.com/TanishkThoria/Hugo-Programmer) theme <br/> &nbsp;&nbsp;&nbsp;&nbsp; Should be up on the hugo website soon :)
 - [] Adding Leetcode to socials
 - [] Nicer blog page 
 
