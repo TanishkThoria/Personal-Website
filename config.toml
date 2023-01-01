@@ -135,10 +135,10 @@ weight = 3
 url = "https://www.hackerrank.com/tanishkthoria"
 
 customImg = true
-imgSrcDarkMode = "images/hackerrankLogoV3.png"
-imgSrcLightMode = "images/hackerrankLogoLightModeV3.png"
-imgWidth = 75
-imgHeight = 75
+imgSrcDarkMode = "images/hackerrankLogoV4.png"
+imgSrcLightMode = "images/hackerrankLogoLightModeV4.png"
+imgWidth = 41.55
+imgHeight = 25.8
 
 footerImgSrcDarkMode = "images/hackerrankLogoBlueV3.png"
 footerImgSrcLightMode = "images/hackerrankLogoBlueLightModeV3.png"
