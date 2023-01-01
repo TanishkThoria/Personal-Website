@@ -119,31 +119,42 @@ weight = 2
 url = "https://replit.com/@tanishkthoria"
 
 customImg = true
-imgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalV2.png"
-imgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalLightMode.png"
+imgSrcDarkMode = "images/replitLogoMinimalV2.png"
+imgSrcLightMode = "images/replitLogoMinimalLightMode.png"
 imgWidth = 21.5
 imgHeight = 25
 
-footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueV2.png"
-footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/replitLogoMinimalBlueLightMode.png"
+footerImgSrcDarkMode = "images/replitLogoMinimalBlueV2.png"
+footerImgSrcLightMode = "images/replitLogoMinimalBlueLightMode.png"
 footerImgWidth = 10.32
 footerImgHeight = 12
 
 [[params.social]]
-name = "Hacker Rank"
+name = "HackerRank"
 weight = 3
 url = "https://www.hackerrank.com/tanishkthoria"
 
 customImg = true
-imgSrcDarkMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoV3.png"
-imgSrcLightMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoLightModeV3.png"
+imgSrcDarkMode = "images/hackerrankLogoV3.png"
+imgSrcLightMode = "images/hackerrankLogoLightModeV3.png"
 imgWidth = 75
 imgHeight = 75
 
-footerImgSrcDarkMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlueV3.png"
-footerImgSrcLightMode = "https://tanishkthoria.netlify.app/images/hackerrankLogoBlueLightModeV3.png"
+footerImgSrcDarkMode = "images/hackerrankLogoBlueV3.png"
+footerImgSrcLightMode = "images/hackerrankLogoBlueLightModeV3.png"
 footerImgWidth = 36
 footerImgHeight = 36
+
+[[params.social]]
+name = "LeetCode"
+weight = 4
+url = "https://leetcode.com/TanishkThoria"
+
+# customImg = true
+imgSrcDarkMode = "https://leetcode.com/static/images/LeetCode_logo.png"
+imgSrcLightMode = "https://leetcode.com/static/images/LeetCode_logo.png"
+imgWidth = 51.2
+imgHeight = 51.2
 
 
 #[[params.social]]
