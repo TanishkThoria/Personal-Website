@@ -20,7 +20,7 @@ favicon_32 = "images/faviconV2_32.png"
 
 description = "Tanishk Thoria's personal website"
 keywords = "blog,developer,personal"
-info = ["FOSS Contributor and Advocate"]
+info = ["FOSS Contributor"]
 avatarURL = "images/enlargedLogo.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
