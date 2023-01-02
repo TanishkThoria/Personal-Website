@@ -1,9 +1,9 @@
 +++ 
 draft = true 
 date = 2022-12-24T15:33:37-08:00 
-title = "The State of FOSS" 
-description = "Free and Open-Source Software has come a long way, but it is enough to rival established companies?" 
-slug = "state of foss" 
+title = "What is FOSS and is it Useful?" 
+description = "Can Free and Open-Source Software rival established companies?" 
+slug = "what is foss" 
 authors = ["Tanishk Thoria"] 
 tags = [] 
 categories = ["FOSS"] 
