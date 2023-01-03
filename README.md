@@ -1,6 +1,9 @@
 <p> <h1>Website <img align="right" src="https://api.netlify.com/api/v1/badges/ae793709-8e1d-4896-9ea1-a1b9d4d6b4d7/deploy-status" alt="Netlify Deploy Badge"> </h1> </p>
 This repo contains the source code for https://tanishkthoria.netlify.app/ 
 
+# This website currently pulls from the "test-branch" of the Hugo-Programmer theme
+The main branch will most likely be updated soon, depending on when the layout changes become finialized. 
+
 # Currently Working on...
 - [📈] Grinding Hackerrank/Leetcode
 - [🏗️ ] Making the [Hugo-Programmer](https://github.com/TanishkThoria/Hugo-Programmer) theme <br/> &nbsp;&nbsp;&nbsp;&nbsp; Should be up on the hugo website soon :)
