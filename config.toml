@@ -101,6 +101,10 @@ customJS = []
 # # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 # connectsrc = ["'self'", "https://www.google-analytics.com"]
 
+[params.blogPost]
+sidebar = "true"
+sidebarColor = "#455a64"
+
 [taxonomies]
 category = "categories"
 series = "series"
