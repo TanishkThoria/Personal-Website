@@ -8,7 +8,6 @@ Currently, I am working on the following projects:
 
 # The Hugo-Programmer Theme
 [This theme](https://github.com/TanishkThoria/Hugo-Programmer) is what I used to make this website, along with Hugo.
-I am always trying to update it and make it better in any way possible.
 
 # Previous works:
 Some of the projects I have done in the past can be found on my Replit.
