@@ -6,7 +6,6 @@ The Hugo theme in use is Hugo-Programmer, but this implementation currently pull
 The main branch will most likely be updated with these changes soon, depending on when the layout changes become finialized. 
 
 # Currently Working on...
-- [📈] Grinding Hackerrank/Leetcode
 - [🏗️ ] Making the [Hugo-Programmer](https://github.com/TanishkThoria/Hugo-Programmer) theme <br/> &nbsp;&nbsp;&nbsp;&nbsp; Should be up on the hugo website soon :)
 - [🏗️ ] Nicer blog page --> in Hugo-Programmer repo
 - [] Adding Leetcode to socials
