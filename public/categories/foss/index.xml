@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOSS on Tanishk Thoria</title>
+    <link>http://localhost:1313/categories/foss/</link>
+    <description>Recent content in FOSS on Tanishk Thoria</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Jan 2023 13:24:10 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/foss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is FOSS?  Why does it matter?</title>
+      <link>http://localhost:1313/posts/why-foss-matters/</link>
+      <pubDate>Sat, 21 Jan 2023 13:24:10 -0800</pubDate>
+      <guid>http://localhost:1313/posts/why-foss-matters/</guid>
+      <description>&lt;p&gt;    For those who may not be familiar with the term, FOSS refers to software that is freely available to use, modify, and&#xA;distribute. This means that the source code is open for anyone to see and change, making it a community-driven and&#xA;collaborative effort. The concept of open-source software is built on the principles of transparency, collaboration,&#xA;and community-driven development. And if you&amp;rsquo;re not convinced yet, just think about it like this: open-source software&#xA;is like a potluck dinner, everyone brings their own dish and shares it with the community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is Hugo?</title>
+      <link>http://localhost:1313/posts/what-is-hugo/</link>
+      <pubDate>Mon, 02 Jan 2023 12:13:02 -0800</pubDate>
+      <guid>http://localhost:1313/posts/what-is-hugo/</guid>
+      <description>&lt;p&gt;Hugo is used in the making of this website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is FOSS and is it Useful?</title>
+      <link>http://localhost:1313/posts/what-is-foss/</link>
+      <pubDate>Sat, 24 Dec 2022 15:33:37 -0800</pubDate>
+      <guid>http://localhost:1313/posts/what-is-foss/</guid>
+      <description>&lt;h1 id=&#34;what-is-foss&#34;&gt;&#xA;  What is FOSS?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-foss&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Free and Open-Source Software (FOSS) is something that can completely change&#xA;the way that we view &amp;ldquo;free&amp;rdquo; things. FOSS offers something that our current, big&#xA;tech companies cannot. Since the services are open-source, they cannot&#xA;be subject to the same sins that conventionally &amp;ldquo;free&amp;rdquo; services are. For&#xA;example, Google offers their services for free, but collect an astronomical&#xA;level of user data. This data is then sold, which is how Google makes money.&#xA;But by being open-source, FOSS cannot try and pull off these tricks as users&#xA;will be able to see what is happening behind the scenes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
