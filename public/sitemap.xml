@@ -23,18 +23,6 @@
     <loc>http://localhost:1313/posts/why-foss-matters/</loc>
     <lastmod>2023-01-21T13:24:10-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-01-02T12:13:02-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/website/</loc>
-    <lastmod>2023-01-02T12:13:02-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/what-is-hugo/</loc>
-    <lastmod>2023-01-02T12:13:02-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/what-is-foss/</loc>
-    <lastmod>2022-12-24T15:33:37-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2022-12-24T13:03:07-08:00</lastmod>
   </url><url>
@@ -48,5 +36,7 @@
     <lastmod>2022-12-24T12:15:17-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
