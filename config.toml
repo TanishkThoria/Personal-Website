@@ -3,13 +3,15 @@ title = "Tanishk Thoria"
 theme = "Hugo-Programmer"
 languageCode = "en"
 defaultContentLanguage = "en"
-pagination.pagerSize = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
+
+[pagination]
+pagerSize = 20
 
 [params]
 author = "Tanishk Thoria"
